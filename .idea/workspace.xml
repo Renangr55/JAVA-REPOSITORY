@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e02f2102-dd7e-4354-b722-83be4e3b3765" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Java - aprendizado.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../CLIMA_ORGANIZACIONAL/TerMap - Projeto Extracurricular.docx" beforeDir="false" afterPath="$PROJECT_DIR$/../CLIMA_ORGANIZACIONAL/TerMap - Projeto Extracurricular.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Array/media.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Array/media.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../zip/Nova pasta/BDDS Amazon - Light Mode - v1.1.0.fig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../zip/Nova pasta/BDDS Consumer Commerce - Dark Mode - v1.1.0.fig" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../zip/Nova pasta/BDDS Webbanner - Light Mode - v1.1.1.fig" beforeDir="false" />
@@ -39,19 +33,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="S:\PM\ter\ets\Inter_Setor\COMPARTILHADO\APRENDIZES\DIGITAL_SOLUTIONS_14\RENAN_GABRIEL\Java - aprendizado\src" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.remocao">
+  <component name="RunManager" selected="Application.introducao">
     <configuration name="Validacao_par_impar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="exercicioGerais.Validacao_par_impar" />
       <module name="Java - aprendizado" />
@@ -65,12 +59,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="inverterArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.inverterArray" />
+    <configuration name="introducao" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArrayList.introducao" />
       <module name="Java - aprendizado" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Array.*" />
+          <option name="PATTERN" value="ArrayList.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -78,8 +72,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="maiorNumero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Array.maiorNumero" />
+    <configuration name="media" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Array.media" />
       <module name="Java - aprendizado" />
       <extension name="coverage">
         <pattern>
@@ -119,11 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.introducao" />
+        <item itemvalue="Application.media" />
+        <item itemvalue="Application.pares" />
         <item itemvalue="Application.remocao" />
         <item itemvalue="Application.Validacao_par_impar" />
-        <item itemvalue="Application.pares" />
-        <item itemvalue="Application.inverterArray" />
-        <item itemvalue="Application.maiorNumero" />
       </list>
     </recent_temporary>
   </component>
